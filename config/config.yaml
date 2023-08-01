@@ -1,0 +1,5 @@
+artifacts_root: artifacts
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_URL: https://raw.githubusercontent.com/etietopabraham/storage/main/jobs_data_simply_hired.csv
