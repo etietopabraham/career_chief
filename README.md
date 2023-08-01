@@ -7,7 +7,8 @@ b. Setup template.py
 c. Setup setup.py
 d  Add dependencies to requirements.txt 
 e. Install requirements
-d. Setup logger and utils
+f. Setup logger 
+g. Setup utils common.py
 
 1. Update config.yaml
 2. Update schema.yaml
