@@ -4,7 +4,9 @@
 
 a. Git setup
 b. Setup template.py
-c. Setup requirements.txt and setup.py
+c. Setup setup.py
+d  Add dependencies to requirements.txt 
+e. Install requirements
 d. Setup logger and utils
 
 1. Update config.yaml
