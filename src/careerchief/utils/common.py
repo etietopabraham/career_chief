@@ -2,7 +2,7 @@
 common.py
 
 Purpose:
-    Contains common functionalities used across the PixiHR project.
+    Contains common functionalities used across the CareerChief project.
 """
 
 from pathlib import Path
